@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from France</h3>
 
 <p>I'm Nikita Padey, a passionate software developer and tech enthusiast. I currently work as a student Software Developer at LaPlateforme.
-With over 1 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.<\p>
+With over 1 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.</p>
 
 <h1 align="center">🚀 Expertise</h1>
   
