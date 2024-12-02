@@ -6,15 +6,15 @@ With over 1 years of experience in the field, I've had the opportunity to work o
 
 <h1 align="center">🚀 Expertise</h1>
   
-<p>Passionate about crafting interactive and intuitive user experiences, I specialize in front-end web development, combining modern frameworks with best practice design patterns. With almost 7 years dedicated to honing my skills in front-end technologies, I've led teams, designed system guidelines, and upheld the highest standards in web performance and SEO.
+<p>Aspiring Developer | Passionate Learner
+As a student in a computer science program, I’m diving headfirst into the world of technology, building a strong foundation in HTML, CSS, Python, and C. I enjoy exploring how these tools can bring ideas to life through clean code and innovative solutions.
 
-In my professional journey, I've proudly served as a Front-end Technical Lead as well, a role where my technical expertise met the challenges of team management. Beyond crafting top-tier user interfaces, I embraced the responsibilities of leadership, guiding my team with strategic oversight, and ensuring projects were executed efficiently.
+Although I’m at the beginning of my journey, I’m driven by a deep curiosity and a commitment to continuous improvement. I’m particularly excited by the potential of blending creativity with logic, crafting engaging web experiences, and writing efficient programs.
 
-In addition to my professional pursuits, I've embraced the role of a "content creator" within the technology sphere. My approach is distinct; I aim to offer a fresh perspective on tech, blending insights with a dash of humor.
+Beyond coding, I’m enthusiastic about collaboration, problem-solving, and expanding my knowledge through projects and challenges. Each new skill and project is a step closer to mastering my craft and contributing to impactful technologies.</p>
 
-Outside of the professional environment, I nurture a unique passion: creating "art" using exclusively CSS. This activity not only sharpens my technical prowess but also allows me to blend programming and creativity in a uniquely captivating way.</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
   
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
